@@ -9,6 +9,7 @@ bsdutils	1:2.27.1-6ubuntu3.1
 busybox-initramfs	1:1.22.0-15ubuntu1
 bzip2	1.0.6-8
 chromium-browser	52.0.2743.116-0ubuntu0.16.04.1.1250
+cmake	3.5.1-1ubuntu2
 compiz-plugins:amd64	1:0.9.12.2+16.04.20160823-0ubuntu1
 compizconfig-settings-manager	1:0.9.12.2+16.04.20160823-0ubuntu1
 console-setup	1.108ubuntu15.2
@@ -216,6 +217,7 @@ makedev	2.3.1-93ubuntu1
 mawk	1.3.3-17ubuntu2
 mime-support	3.59ubuntu1
 mokutil	0.3.0-0ubuntu3
+moreutils	0.57-1
 mount	2.27.1-6ubuntu3.1
 multiarch-support	2.23-0ubuntu3
 mythes-en-us	1:5.1.0-1ubuntu2.2

@@ -1,0 +1,9 @@
+[Unit]
+Description=Daily packages.txt (service)
+Documentation=https://github.com/hi-ogawa/packages.txt
+
+[Service]
+User=hiogawa
+WorkingDirectory=/home/hiogawa/repositories/my/packages
+Type=oneshot
+ExecStart=/home/hiogawa/repositories/my/packages.sh

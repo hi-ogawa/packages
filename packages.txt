@@ -232,6 +232,7 @@ netcat-openbsd	1.105-7ubuntu1
 nmap	7.01-2ubuntu2
 notify-osd	0.9.35+16.04.20160415-0ubuntu1
 openoffice.org-hyphenation	0.9
+openssh-server	1:7.2p2-4ubuntu2.1
 os-prober	1.70ubuntu3
 passwd	1:4.2-3.1ubuntu5
 perl-base	5.22.1-9

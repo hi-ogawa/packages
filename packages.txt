@@ -2,6 +2,7 @@ adduser	3.113+nmu3ubuntu4
 apt	1.2.12~ubuntu16.04.1
 apt-file	2.5.5ubuntu1
 apt-utils	1.2.12~ubuntu16.04.1
+atom	1.10.2
 base-files	9.4ubuntu4.2
 base-passwd	3.5.39
 bash	4.3-14ubuntu1.1

@@ -267,7 +267,7 @@ unity	7.4.0+16.04.20160715-0ubuntu1
 unity-settings-daemon	15.04.1+16.04.20160701-0ubuntu1
 ureadahead	0.100.0-19
 util-linux	2.27.1-6ubuntu3.1
-vagrant	1.8.1+dfsg-1
+vagrant	1:1.8.5
 vim-common	2:7.4.1689-3ubuntu1.1
 vim-tiny	2:7.4.1689-3ubuntu1.1
 virtualbox	5.0.24-dfsg-0ubuntu1.16.04.1

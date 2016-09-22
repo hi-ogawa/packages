@@ -252,6 +252,7 @@ shim-signed	1.17~16.04.1+0.8-0ubuntu2
 shutter	0.93.1-1ubuntu1
 skype	4.3.0.37-0ubuntu0.12.04.1
 skypeforlinux	1.7.0.1
+slack-desktop	2.1.2
 sudo	1.8.16-0ubuntu1.1
 systemd	229-4ubuntu8
 systemd-sysv	229-4ubuntu7

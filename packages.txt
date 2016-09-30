@@ -8,6 +8,7 @@ at	3.1.18-2ubuntu1
 atom	1.10.2
 autoconf	2.69-9
 automake	1:1.15-4ubuntu1
+awscli	1.10.1-1
 base-files	9.4ubuntu4.2
 base-passwd	3.5.39
 bash	4.3-14ubuntu1.1

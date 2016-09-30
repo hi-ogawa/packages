@@ -680,6 +680,7 @@ tex-common	6.04
 texinfo	6.1.0.dfsg.1-5
 thunderbird-locale-en	1:45.3.0+build1-0ubuntu0.16.04.2
 thunderbird-locale-en-us	1:45.3.0+build1-0ubuntu0.16.04.2
+tmux	2.1-3build1
 ttf-dejavu-core	2.35-1
 ttf-mscorefonts-installer	3.4+nmu1ubuntu2
 tzdata	2016f-0ubuntu0.16.04

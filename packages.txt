@@ -139,6 +139,7 @@ gnome-tweak-tool	3.18.1-1
 gnupg	1.4.20-1ubuntu3.1
 gperf	3.0.4-2
 gpgv	1.4.20-1ubuntu3.1
+graphviz	2.38.0-12ubuntu2
 grep	2.25-1~16.04.1
 grub-common	2.02~beta2-36ubuntu3.1
 grub-efi-amd64-signed	1.66.1+2.02~beta2-36ubuntu3.1
